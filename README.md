@@ -8,7 +8,7 @@
 
 ## Steps Followed
 1. Created the `users and orders` table manually.
-2. Used SSMS Import data file by right clicking on the database you created and go to tasks then you see import data file.
+2. Used SSMS Import flat file by right clicking on the database you created and go to tasks then you see import flat file.
 3. Verified successful insertion of all records.
 
 ## Screenshot
