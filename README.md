@@ -12,6 +12,5 @@
 3. Verified successful insertion of all records.
 
 ## Screenshot
-Below is a screenshot of the import result:
+Attached the screenshot of the import result.
 
-![Data Import Screenshot](screenshots/import_success.png)
